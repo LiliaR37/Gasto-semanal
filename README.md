@@ -1,3 +1,3 @@
 # Gasto-Semanal
 
-Lista para agregar gastos semanal con un determinado presupuesto. 
+Lista para agregar gastos  con un determinado presupuesto. 
